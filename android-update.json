@@ -1,0 +1,9 @@
+{
+  "versionCode": 5,
+  "versionName": "1.3.0",
+  "minSdk": 24,
+  "url": "https://github.com/hPPPf7/member-points-demo/releases/download/android-v1.3.0/member-points-1.3.0.apk",
+  "sha256": "d39c5387075b925716ebd118b4ab9691b3f0d97f9ea82b8e66de773252e059a3",
+  "size": 3325370,
+  "notes": "開啟 App 時自動檢查新版本，回到首頁後才提示，不中斷集點與兌換。\n新增「更多功能 → 檢查更新」，可下載並安裝新版。\n下載會驗證檔案與簽章；保留原有會員、點數及設定。\n更新畫面支援分頁、大字體、手機與平板。"
+}
