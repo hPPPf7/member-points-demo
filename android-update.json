@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.3.1",
+  "versionCode": 7,
+  "versionName": "1.3.2",
   "minSdk": 24,
-  "url": "https://github.com/hPPPf7/member-points-demo/releases/download/android-v1.3.1/member-points-1.3.1.apk",
-  "sha256": "2a18fb22272b080c9edf4be0248ccd7dd4b55db1823634a5233320d6df3ce754",
+  "url": "https://github.com/hPPPf7/member-points-demo/releases/download/android-v1.3.2/member-points-1.3.2.apk",
+  "sha256": "d5e360e1d558dc17149bb502b7f3035b25d17ecd700e577a4739e6f499d15d85",
   "size": 3325370,
-  "notes": "集點設定改為依可用空間同頁顯示多個欄位，空間不足時才自動分頁。\n支援大字體與手機、平板，調整畫面大小時保留草稿。\n填完後仍需核對並確認儲存，返回或取消不會改變既有設定。"
+  "notes": "新增點數改為同頁切換金額換點與輸入點數，省去選擇方式的獨立頁面。\n即時顯示本次新增與完成後總點數。各模式保留各自輸入，只採用目前選擇的方式，不會相加。\n核對頁返回可直接修改，確認前不會入帳。支援小螢幕與大字體自動分頁。"
 }
