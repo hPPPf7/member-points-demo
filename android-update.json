@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "1.3.2",
+  "versionCode": 8,
+  "versionName": "1.3.3",
   "minSdk": 24,
-  "url": "https://github.com/hPPPf7/member-points-demo/releases/download/android-v1.3.2/member-points-1.3.2.apk",
-  "sha256": "d5e360e1d558dc17149bb502b7f3035b25d17ecd700e577a4739e6f499d15d85",
+  "url": "https://github.com/hPPPf7/member-points-demo/releases/download/android-v1.3.3/member-points-1.3.3.apk",
+  "sha256": "0e62325f9a385e1c64f88ceeb0613db3dbecaeab44190ef3d2a1dad1d4bad437",
   "size": 3325370,
-  "notes": "新增點數改為同頁切換金額換點與輸入點數，省去選擇方式的獨立頁面。\n即時顯示本次新增與完成後總點數。各模式保留各自輸入，只採用目前選擇的方式，不會相加。\n核對頁返回可直接修改，確認前不會入帳。支援小螢幕與大字體自動分頁。"
+  "notes": "手機與平板的文字、輸入數字、點數及操作按鈕放大，保留系統大字體。\n操作區依內容排列，確認按鈕靠近內容，避免大片空白。\n會員最近紀錄移至右上角，讓新增點數更容易操作。\n小螢幕及鍵盤開啟時仍可自動分頁，保留原有會員與點數。"
 }
